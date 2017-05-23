@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1495552059 source:c:\users\alumno-a\documents\estructura\main.cpp
+	<iostream>
+
+1495553662 source:c:\users\alumno-a\documents\estructura\src\titan.cpp
+	"titan.h"
+
+1495553702 c:\users\alumno-a\documents\estructura\include\titan.h
+	<string.h>
+	<iostream>
+
+1495553833 source:c:\users\alumno-a\documents\estructura\src\pequenos.cpp
+	"pequenos.h"
+
+1495553662 c:\users\alumno-a\documents\estructura\include\pequenos.h
+	"titan.h"
+	<iostream>
+
+1495553934 source:c:\users\alumno-a\documents\estructura\src\medianos.cpp
+	"medianos.h"
+
+1495553934 c:\users\alumno-a\documents\estructura\include\medianos.h
+	"titan.h"
+
